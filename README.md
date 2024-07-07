@@ -1,5 +1,5 @@
 <p>Commend to activate the code when clone from GitHub and for env (note: for seed can seed only admin and it will create user also) </p>
-<li></li>composer install<li></li>
+</li>composer install<li>
 <li>cp .env.example .env</li>
 <li>php artisan key:generate</li>
 <li>php artisan migrate --seed</li>
